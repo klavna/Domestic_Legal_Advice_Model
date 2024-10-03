@@ -11,15 +11,16 @@
 <br><br><br>
 
 ## 02. Experiment
+&nbsp;&nbsp; ▶ You can observe that after fine-tuning, it provides a better explanation of legal advice than before.
 - [Before] Fine_Tuning
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="800" alt="image" src="https://github.com/user-attachments/assets/65f8873e-f11c-46c7-91f6-a85d259ee4ac">
 
-- [After] Fine_Tuning
-
 <br>
 
-&nbsp;&nbsp; ▶ You can observe that after fine-tuning, it provides a better explanation of legal advice than before.
+- [After] Fine_Tuning
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="886" alt="image" src="https://github.com/user-attachments/assets/0be56e37-f78c-4bb2-823f-5395b45bf06f">
 <br><br><br>
 
 ## 03. Addition
